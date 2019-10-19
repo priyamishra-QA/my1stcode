@@ -7,7 +7,7 @@ public class simple {
 		num= 7;
 		System.out.println(num);
 				
-		
+		//added new comment and redy to push the code
 
 	}
 
